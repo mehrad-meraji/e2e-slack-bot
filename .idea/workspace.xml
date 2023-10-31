@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6b6aa62-8649-46c8-a6d6-54bceebd8703" name="Changes" comment="Update with slack/bolt instead of nestjs">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2MCPVlrUQS3ihLZkbJRnEu5fFbp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/mmeraji/Workspace/tpl/daemon-bot-slack",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/mmeraji/Workspace/tpl/daemon-bot-slack/node_modules/prettier",
+    "settings.editor.selected.configurable": "Settings.JavaScript.Linters.JSHint",
+    "ts.external.directory.path": "/Users/mmeraji/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="npm init -y" />
+      <command value="touch .gitignore" />
+      <command value="npm install @slack/bolt" />
+      <command value="touch .env" />
+      <command value="npm install dotenv" />
+      <command value="node app.js" />
+      <command value="touch Readme.md" />
+      <command value="npm i octokit" />
+      <command value="npm i proxy-agent" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v18.16.1/bin/node" path-to-js-file="main.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6b6aa62-8649-46c8-a6d6-54bceebd8703" name="Changes" comment="" />
+      <created>1677268617072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677268617072</updated>
+      <workItem from="1677268618189" duration="6071000" />
+      <workItem from="1677516230954" duration="22331000" />
+      <workItem from="1678131899905" duration="15553000" />
+      <workItem from="1678299063484" duration="2184000" />
+      <workItem from="1678483944078" duration="309000" />
+      <workItem from="1678811387048" duration="6999000" />
+      <workItem from="1689624110605" duration="1312000" />
+      <workItem from="1689688727094" duration="598000" />
+      <workItem from="1698762299226" duration="985000" />
+    </task>
+    <task id="LOCAL-00001" summary="slack bot init">
+      <created>1677274224319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677274224319</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update slack server">
+      <created>1678811675049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678811675049</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update with slack/bolt instead of nestjs">
+      <option name="closed" value="true" />
+      <created>1698763226062</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698763226062</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="slack bot init" />
+    <MESSAGE value="update slack server" />
+    <MESSAGE value="Update with slack/bolt instead of nestjs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update with slack/bolt instead of nestjs" />
+  </component>
+</project>
